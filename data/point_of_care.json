@@ -560,6 +560,26 @@
         "field_annotation": null
     },
     {
+        "field_name": "labs_desc",
+        "form_name": "point_of_care",
+        "section_header": null,
+        "field_type": "descriptive",
+        "field_label": "Name: [last_name], [first_name]\nAge: [age]\nRace: [race]\nSystolic BP: [blood_pressure_right_sys]\nTreated for HTN: [htn_medication]\nSmoker: [do_you_smoke]\nDiabetes: [hx_of_diabetes]\n",
+        "select_choices_or_calculations": null,
+        "field_note": null,
+        "text_validation_type_or_show_slider_number": null,
+        "text_validation_min": null,
+        "text_validation_max": null,
+        "identifier": null,
+        "branching_logic": null,
+        "required_field": null,
+        "custom_alignment": null,
+        "question_number": null,
+        "matrix_group_name": null,
+        "matrix_ranking": null,
+        "field_annotation": "@HIDDEN"
+    },
+    {
         "field_name": "poc_checkout_time",
         "form_name": "point_of_care",
         "section_header": null,

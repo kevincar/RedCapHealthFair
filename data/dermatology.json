@@ -260,6 +260,26 @@
         "field_annotation": null
     },
     {
+        "field_name": "reason_for_referal_derm",
+        "form_name": "dermatology",
+        "section_header": null,
+        "field_type": "notes",
+        "field_label": "Reason for Referral",
+        "select_choices_or_calculations": null,
+        "field_note": null,
+        "text_validation_type_or_show_slider_number": null,
+        "text_validation_min": null,
+        "text_validation_max": null,
+        "identifier": null,
+        "branching_logic": "[flag_blood_derm] = '1' or [derm_high_risk] = '1'",
+        "required_field": "y",
+        "custom_alignment": null,
+        "question_number": null,
+        "matrix_group_name": null,
+        "matrix_ranking": null,
+        "field_annotation": "@HIDDEN"
+    },
+    {
         "field_name": "dermatology_check_out_time",
         "form_name": "dermatology",
         "section_header": null,

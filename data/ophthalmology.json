@@ -600,6 +600,26 @@
         "field_annotation": null
     },
     {
+        "field_name": "terst_dropwonq",
+        "form_name": "ophthalmology",
+        "section_header": null,
+        "field_type": "checkbox",
+        "field_label": "terst dropwonq",
+        "select_choices_or_calculations": "1, Deep and Quiet | 2, Blood | 3, Scar | 4, Blood | 5, Scar | 6, Blood | 7, Scar | 8, Blood | 9, Scar | 10, Blood | 11, Scar2, Blood | 12, Scar",
+        "field_note": null,
+        "text_validation_type_or_show_slider_number": null,
+        "text_validation_min": null,
+        "text_validation_max": null,
+        "identifier": null,
+        "branching_logic": null,
+        "required_field": null,
+        "custom_alignment": null,
+        "question_number": null,
+        "matrix_group_name": null,
+        "matrix_ranking": null,
+        "field_annotation": "@HIDDEN"
+    },
+    {
         "field_name": "ophthomology_check_out_tim",
         "form_name": "ophthalmology",
         "section_header": null,
