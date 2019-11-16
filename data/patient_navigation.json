@@ -9852,7 +9852,7 @@
         "text_validation_max": null,
         "identifier": null,
         "branching_logic": null,
-        "required_field": "y",
+        "required_field": null,
         "custom_alignment": "LV",
         "question_number": null,
         "matrix_group_name": null,

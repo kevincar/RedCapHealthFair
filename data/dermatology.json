@@ -272,7 +272,7 @@
         "text_validation_max": null,
         "identifier": null,
         "branching_logic": "[flag_blood_derm] = '1' or [derm_high_risk] = '1'",
-        "required_field": "y",
+        "required_field": null,
         "custom_alignment": null,
         "question_number": null,
         "matrix_group_name": null,
